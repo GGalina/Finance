@@ -2,7 +2,7 @@
   "name": "finance",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GGalina.github.io/Finance/",
+  "homepage": "https://GGalina.github.io/Finance",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
