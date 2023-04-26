@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Finance/static/css/main.02e65822.css",
-    "main.js": "/Finance/static/js/main.e0c235d8.js",
+    "main.js": "/Finance/static/js/main.bea04756.js",
     "static/media/Lato-Semibold.ttf": "/Finance/static/media/Lato-Semibold.dab63590f439194ec956.ttf",
     "static/media/Lato-Bold.ttf": "/Finance/static/media/Lato-Bold.9cfae71062337c38b44f.ttf",
     "static/media/Lato-Regular.ttf": "/Finance/static/media/Lato-Regular.cbcf73593dd54516d4b3.ttf",
@@ -23,10 +23,10 @@
     "static/media/sprite.svg": "/Finance/static/media/sprite.5e6c44aeceff6934ae9b29639dadf3f8.svg",
     "index.html": "/Finance/index.html",
     "main.02e65822.css.map": "/Finance/static/css/main.02e65822.css.map",
-    "main.e0c235d8.js.map": "/Finance/static/js/main.e0c235d8.js.map"
+    "main.bea04756.js.map": "/Finance/static/js/main.bea04756.js.map"
   },
   "entrypoints": [
     "static/css/main.02e65822.css",
-    "static/js/main.e0c235d8.js"
+    "static/js/main.bea04756.js"
   ]
 }
